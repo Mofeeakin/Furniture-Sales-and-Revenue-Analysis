@@ -1,7 +1,7 @@
 # Furniture-sales-and-revenue-analysis
 The Furniture Sales and Revenue Dashboard is a comprehensive Excel-based visualization that analyses a fictional furniture company's sales, revenue, and key performance metrics. It is designed to help business leaders and analysts identify trends, evaluate performance, and make data-driven decisions to enhance sales and profitability.
 
-![Furniture Sales Dashboard](https://github.com/M0Data/Furniture-sales-and-revenue-analysis/blob/main/Furniture%20Sales%20n%20revenue%20analysis.PNG?raw=true)
+![Furniture Dashboard.png](https://github.com/Mofeeakin/Furniture-Sales-and-Revenue-Analysis/blob/b539378201d91be84497bcfbbaf3f131ae6c7868/Furniture%20Dashboard.png)
 ---
 
 ## *Key Metrics Summary*
